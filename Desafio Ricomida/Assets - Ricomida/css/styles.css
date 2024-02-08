@@ -1,0 +1,171 @@
+
+.navbar-brand {
+    font-family: 'Lobster', cursive;
+    font-weight: 400; 
+    font-size: 90pt;
+    color: white;
+    margin-left: 150px !important;
+}
+
+.navbar-nav .nav-link {
+    font-family: 'Cabin', sans-serif; 
+    font-weight: 400; 
+}
+
+.img-fluid {
+    margin-top: 20px; 
+    margin-bottom: 20px; 
+    margin-left: auto; 
+    margin-right: auto; 
+}
+
+.h1 {
+    font-family: 'Cabin', sans-serif; 
+    font-weight: 700;
+    margin-top: 40px; 
+}
+
+#enviarCorreo {
+    font-family: 'Cabin', sans-serif;
+    font-weight: 400; 
+    color: #373A3C; 
+    border-color: #DDDDDD;
+}
+
+hr {
+    background-color: #000; 
+    height: 2px; 
+    border: none; 
+    margin: 20px 0; 
+}
+
+.carousel-item img {
+    max-width: 80%; 
+    height: auto;
+    margin: auto;
+    display: block;
+    margin-right: 80px; 
+    margin-left: 80px;
+}
+
+.carousel-inner {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#carouselcontrols {
+    margin-top: 20px; 
+    margin-bottom: 40px;
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+    background: transparent;
+    color: transparent; 
+    border: none; 
+    width: auto; 
+}
+
+.linea-centrada {
+    background-color: #000; 
+    height: 1px; 
+    border: none; 
+    margin: 0 auto;
+    width: 50%;
+    margin-bottom: 20px; 
+}
+
+
+.container .col-md-6 p {
+    font-family: 'Cabin', sans-serif;
+    font-weight: 400; 
+}
+
+.container .col-md-6 ul,
+.container .col-md-6 ol {
+    font-family: 'Cabin', sans-serif;
+    font-weight: 400; 
+}
+
+.container .col-md-6 ul p,
+.container .col-md-6 ol p {
+    font-family: 'Cabin', sans-serif;
+    font-weight: 400; 
+}
+
+.hr-recetas {
+    background-color: #000; 
+    height: 1px; 
+    border: none; 
+    margin: 0 auto;
+    width: 80%;
+    margin-bottom: 20px; 
+}
+
+.card {
+    max-width: 300px;
+    margin-top: 30px;
+    margin-bottom: 0;
+    margin-right: auto; 
+    margin-left: auto;
+}
+
+.row-cols-1 .col,
+.row-cols-md-3 .col-md-4 {
+    padding-right: 6px; 
+    padding-left: 6px;
+     
+}
+
+.container {
+    margin-bottom: 70px;
+}
+
+.text-center {
+    text-align: center; 
+}
+
+.newsletter-section {
+    background-color: #DC3545;
+    color: white;
+    padding: 200px 0; 
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+
+.newsletter-section p {
+    font-size: 20px; 
+}
+
+.newsletter-section {
+    background-color: #DC3545;
+    color: white;
+    padding: 200 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    height: 100%;
+    font-size: 20px;
+}
+
+
+.buttom:hover {
+    color: var(--bs-btn-hover-color);
+    background-color: var(--bs-btn-hover-bg);
+    border-color: var(--bs-btn-hover-border-color);
+}
+
+.footer {
+    background-color: #373A3C;
+    font-family: 'Lobster', 'Regular';
+    color: white;
+    padding: 5px 0;
+    width: 100%;
+}
+
+.footer p {
+    font-size: 30px; 
+    margin-bottom: 0; 
+    text-align: bottom;
+     
+}
